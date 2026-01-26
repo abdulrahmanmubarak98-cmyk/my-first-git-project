@@ -1,1 +1,1 @@
-print("Asalamu walaikum wa rahmatullah, Git & GitHub World.")
+print("success doesn't happen overnight. patience and perseverance are key.")
