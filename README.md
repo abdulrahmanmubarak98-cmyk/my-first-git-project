@@ -12,4 +12,10 @@ I remember making my first commit and honestly all i could think was i need to b
 -Build strong GitHub habits
 -Grow as a professional developer
 - Learning in public
+- Sharpening my skils as a programmer through consistency
+
+Mubarak Adogu
+- Aspiring python Developer|Backend Developer | Automation
+
+
 
